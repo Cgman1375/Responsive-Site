@@ -1,0 +1,168 @@
+
+
+
+div.Header{
+       
+       text-align: center;
+       font-family: comic;
+       font-size: 28px;
+      }
+body  {
+       color: White;
+       text-align: left;
+       font-family: helvetica;
+       font-size: 15px;
+       margin: 25px;
+      }
+p     {
+       color: White;
+       text-align: left;
+       font-family: helvetica;
+       font-size: 15px;
+       margin: 25px;
+      }
+nav   {
+       color: White;
+       text-align: middle;
+       font-family: helvetica;
+       font-size: 20px;
+       padding: 10px;
+       word-spacing: 100px;
+      }
+a:hover{
+       color: White;
+       transition-property: all;
+       transition-duration: .5s;
+      }
+
+a:hover{
+       color: Blue;
+       
+      }
+
+a     {color: White;}
+
+body  {
+       background-image: url("Website_BG_copy.jpg");
+       background-size: cover;
+       text-align: center;
+      }
+ol    {
+       
+       text-align: left;
+       font-family: Helvetica;
+       font-size: 15px;
+      }
+.name {
+       border-bottom: solid 1px white;
+       padding-bottom: 25px;
+      }
+.Clients-Include{
+       color: White;
+       text-align: left;
+       font-family: helvetica;
+       font-size: 25px;
+       margin: 25px;
+      }
+.Work-Experience{
+       color: White;
+       text-align: left;
+       font-family: helvetica;
+       font-size: 25px;
+       margin: 25px;
+      }
+div.col1{
+  display: inline-block;
+  width: 400px
+      }
+div.col2{
+  display: inline-block;
+  width: 400px
+      }
+img   {
+        
+        border-style: solid;
+        border-width: 1px;
+        height:640px
+        width: 480px;
+      }
+body  {
+       background-image: url("Website_BG_copy.jpg");
+       background-size: cover;
+       text-align: center;
+
+      }
+.name {
+       border-bottom: solid 1px white;
+       padding-bottom: 25px;
+      }
+ul    {
+       color: White;
+       text-align: left;
+       font-family: helvetica;
+       font-size: 15px;
+       margin: 25px;
+      }
+
+
+p     {
+       color: White;
+       text-align: left;
+       font-family: helvetica;
+       font-size: 15px;
+       margin: 25px;
+      }
+
+div.gallery {
+       margin: 35px;
+       border: 1px solid White;
+       box-sizing: border-box;
+       display:inline-block;
+       width: 250px;
+      }
+div.gallery:hover {
+       border: 2px solid;
+       color: Blue;
+      }
+
+div.gallery img {
+       width: 100%;
+       height: auto;
+      }
+
+div.desc:hover{
+	 color: White;
+       padding: 5px;
+       text-align: center;
+       transition-property: all;
+       transition-duration: .5s;
+      }
+
+div.desc a:hover{
+        color: blue;
+      }
+
+div.Portfolio{
+      font-size:24px;
+      color: White;
+      padding: 10px;
+      text-align: center;
+      }
+
+div.portfolio:hover{
+      color: White;
+      transition-property: text;
+      transition-duration: .5s;
+      }
+
+div.Portfolio a:hover{
+      color: blue;
+      }
+.name {
+      border-bottom: solid 1px white;
+      padding-bottom: 25px;
+      }
+
+@media (max-width: 900px){
+      body
+}
